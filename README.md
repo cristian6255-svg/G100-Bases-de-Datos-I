@@ -19,5 +19,5 @@ El propósito de este repositorio es **centralizar**, **evidenciar** y **facilit
 ## Descripción de cada tarea
 - **Tarea 02:** Contiene los productos correspondientes a la TIA 2 (entrega anterior organizada) 
 - **Tarea 03:** Contiene los productos correspondientes a la TIA 3  
-- **Tarea 05:** Pendiente; actualmente se encuentra vací
+- **Tarea 05:** Pendiente; actualmente se encuentra vacía
 - **Tarea 06:** Pendiente; actualmente se encuentra vacía
