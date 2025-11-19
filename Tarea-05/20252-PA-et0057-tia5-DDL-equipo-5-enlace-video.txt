@@ -1,0 +1,16 @@
+﻿-- =========================================================
+-- Tarea 5 - Parte #1 del Proyecto de Aula
+-- ENLACE A VIDEO (drive de google)
+-- =========================================================
+
+
+-- Miembros del grupo:
+-- Cristian Camilo Hernandez Lopez
+-- Maria Ortiz Oquendo
+-- Sebastian Ramirez Ramos
+-- Mydshell Stephannia Usuga Arango
+
+
+-- =========================================================
+--https://drive.google.com/file/d/1ZI8t3Z5o16W8rLM3dkhsaDuJOo3cJvGE/view?usp=sharing
+-- =========================================================
