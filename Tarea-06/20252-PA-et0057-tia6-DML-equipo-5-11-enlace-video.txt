@@ -1,0 +1,15 @@
+﻿-- =========================================================
+-- Tarea 6 - Parte #2 del Proyecto de Aula
+-- ENLACE A VIDEO (drive de google)
+-- =========================================================
+
+-- Miembros del grupo:
+-- Cristian Camilo Hernandez Lopez
+-- Maria Ortiz Oquendo
+-- Sebastian Ramirez Ramos
+-- Mydshell Stephannia Usuga Arango 
+
+
+-- =========================================================
+--https://drive.google.com/file/d/1fl46OoMuoY1xTL48pZ4XTxegmJiLEKA9/view?usp=sharing
+-- =========================================================
